@@ -21,7 +21,7 @@
 
   MHFormer:
 
-  <p align="center"><img src="figure/SHR.png" width="100%" alt="" /></p>
+  <p align="center"><img src="figure/SHR.PNG" width="100%" alt="" /></p>
 
   
 
